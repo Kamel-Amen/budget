@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Sans';
+}
+
+// Variables
+$green: #198754;
+$red: #dc3545;
+$black: #222;
+$blue: #0d6efd;
+
+.balance {
+  img {
+    width: 75px;
+    height: 75px;
+  }
+  span {
+    font-size: 2.5em;
+  }
+}
+
+#icon {
+  cursor: pointer;
+}
