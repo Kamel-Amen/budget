@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/budget/static/css/main.8820481d.chunk.css",
+    "main.js": "/budget/static/js/main.c4762730.chunk.js",
+    "main.js.map": "/budget/static/js/main.c4762730.chunk.js.map",
+    "runtime-main.js": "/budget/static/js/runtime-main.51aad7d8.js",
+    "runtime-main.js.map": "/budget/static/js/runtime-main.51aad7d8.js.map",
+    "static/css/2.818011ed.chunk.css": "/budget/static/css/2.818011ed.chunk.css",
+    "static/js/2.04daa935.chunk.js": "/budget/static/js/2.04daa935.chunk.js",
+    "static/js/2.04daa935.chunk.js.map": "/budget/static/js/2.04daa935.chunk.js.map",
+    "static/js/3.7a36d7a1.chunk.js": "/budget/static/js/3.7a36d7a1.chunk.js",
+    "static/js/3.7a36d7a1.chunk.js.map": "/budget/static/js/3.7a36d7a1.chunk.js.map",
+    "index.html": "/budget/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/budget/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.8820481d.chunk.css.map": "/budget/static/css/main.8820481d.chunk.css.map",
+    "static/js/2.04daa935.chunk.js.LICENSE.txt": "/budget/static/js/2.04daa935.chunk.js.LICENSE.txt",
+    "static/media/credit_card.2e35090f.svg": "/budget/static/media/credit_card.2e35090f.svg",
+    "static/media/delete.ff1ae0ca.svg": "/budget/static/media/delete.ff1ae0ca.svg",
+    "static/media/dolor.455ccb9c.svg": "/budget/static/media/dolor.455ccb9c.svg",
+    "static/media/edit.f3a12fec.svg": "/budget/static/media/edit.f3a12fec.svg",
+    "static/media/money.342927e0.svg": "/budget/static/media/money.342927e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51aad7d8.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.04daa935.chunk.js",
+    "static/css/main.8820481d.chunk.css",
+    "static/js/main.c4762730.chunk.js"
+  ]
+}
